@@ -9,7 +9,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-/** Class: TwoSAT_Satisfiability_Problem_SCC.java
+/** Class: TwoSAT_SCC.java
  *  @author Yury Park
  *
  *  This class - 2-SAT problem solver.
