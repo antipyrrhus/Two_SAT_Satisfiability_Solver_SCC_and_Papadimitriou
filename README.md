@@ -1,6 +1,6 @@
 # Two_SAT_Satisfiability_Solver_SCC_and_Papadimitriou
 
-This class solves the 2SAT problem via two separate methods:
+This class efficiently solves the 2SAT problem via two separate methods:
 
 1) Reduction to the Strongly Connected Components (SCC) algorithm.
 2) Papadimitriou's random walk algorithm.
