@@ -1,4 +1,4 @@
-# Two_SAT_Satisfiability_Solver_Using_SCC
+# Two_SAT_Satisfiability_Solver_SCC_and_Papadimitriou
 
 This class solves the 2SAT problem via two separate methods:
 
